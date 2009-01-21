@@ -33,4 +33,4 @@ About
 
 Alocola was developed by [Dan Grigsby](http://www.unpossible.com) for the iPhone programming blog and podcast [Mobile Orchard](http://www.mobileorchard.com).  
 
-Visit the [Alocola website](http://www.alocla.com) for contact info.
+Visit the [Alocola website](http://www.alocola.com) for contact info.
