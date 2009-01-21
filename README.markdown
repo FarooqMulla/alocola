@@ -33,4 +33,6 @@ About
 
 Alocola was developed by [Dan Grigsby](http://www.unpossible.com) for the iPhone programming blog and podcast [Mobile Orchard](http://www.mobileorchard.com).  
 
+Read the [launch announcement](http://www.mobileorchard.com/alocola-mobile-orchards-safari-helper-makes-websites-location-aware/) for the backstory behind Alocola.
+
 Visit the [Alocola website](http://www.alocola.com) for contact info.
