@@ -1,0 +1,3 @@
+NSURL seems to require a hostname.  So links should start with: alocola://alocola.com?url=...
+
+Future: if currentLocation.timestamp is old bring back statusLabel and statusActivityIndicator
