@@ -25,6 +25,8 @@ Understanding the iPhone Code
 
 I'll be writing a series of articles about this for [Mobile Orchard](http://www.mobileorchard.com).  
 
+The first article, about [using URL handling for Inter-process Communication (IPC)](http://www.mobileorchard.com/apple-approved-iphone-inter-process-communication/), is available now.
+
 I'll update this README to include links as they become available.
 
 
