@@ -23,12 +23,11 @@ See the [web developer guide](http://www.alocola.com/developer.html).
 Understanding the iPhone Code
 -----------------------------
 
-I'll be writing a series of articles about this for [Mobile Orchard](http://www.mobileorchard.com).  
+I've written a couple of articles about how the code works:
 
-The first article, about [using URL handling for Inter-process Communication (IPC)](http://www.mobileorchard.com/apple-approved-iphone-inter-process-communication/), is available now.
+[URL handling for Inter-process Communication (IPC)](http://www.mobileorchard.com/apple-approved-iphone-inter-process-communication/)
 
-I'll update this README to include links as they become available.
-
+[CoreLocation tutorial](http://www.mobileorchard.com/hello-there-a-corelocation-tutorial/)
 
 About
 -----

@@ -102,8 +102,7 @@
 		value.tag = VALUE_TAG;
 		value.textColor = [UIColor blackColor]; 
 		value.lineBreakMode = UILineBreakModeWordWrap; 
-		value.autoresizingMask = UIViewAutoresizingFlexibleWidth | 
-		UIViewAutoresizingFlexibleHeight; 
+		value.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight; 
 		[cell.contentView addSubview:value]; 
 	} else { 
 		label = (UILabel *)[cell.contentView viewWithTag:LABEL_TAG]; 
